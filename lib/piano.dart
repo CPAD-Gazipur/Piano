@@ -1,7 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_piano_app/utils/color_manager.dart';
-import 'package:flutter_piano_app/utils/sound.dart';
+import 'package:flutter_application_2/utils/color_manager.dart';
+import 'package:flutter_application_2/utils/sound.dart';
 
 class Piano extends StatelessWidget {
   Piano({Key? key}) : super(key: key);
